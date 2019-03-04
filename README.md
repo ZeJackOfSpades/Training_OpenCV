@@ -7,5 +7,5 @@ This repository contains several scripts using OpenCV and numpy in the OpenCV tu
 [OpenCV tutorial](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)
 
 # Copyright
-OpenCV
+OpenCV : [License](https://github.com/opencv/opencv/blob/master/LICENSE)
 
